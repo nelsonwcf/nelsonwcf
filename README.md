@@ -39,7 +39,7 @@ Here’s a quick look at some of my work:
 ## 🔗 Connect with Me
 
 - [📇 LinkedIn](https://www.linkedin.com/in/nelsoncorrocher)
-- 📬 Email: nelsonwcf@gmail.com
+- 📬 Email: nelsonwcf@pythonics.net
 - 🌍 Location: Boston, MA
 
 ---
